@@ -1,5 +1,5 @@
 /*Arithmetic Operatorsdivision-User friendly Program*/
-#include,<stdio.h>
+#include<stdio.h>
 int main()
 {
     int x,y,division;
