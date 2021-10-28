@@ -1,6 +1,6 @@
 /*LOGICAL OPERATORS*/
 #include <stdio.h>
-int read()
+int main()
 {
     int a, b, c, d;
     printf("enter value a, b, c, d");
